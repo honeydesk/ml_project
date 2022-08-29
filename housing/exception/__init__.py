@@ -9,6 +9,7 @@ class HousingException(Exception):
                                                                        error_detail=error_detail
                                                                         )
 
+
     @staticmethod
     def get_detailed_error_message(error_message:Exception,error_detail:sys)->str:
         """
@@ -33,3 +34,4 @@ class HousingException(Exception):
 
     def __repr__(self) -> str:
         return HousingException.__name__.str()
+
