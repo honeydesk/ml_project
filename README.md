@@ -13,7 +13,7 @@ Main step for machine Learning Projects.
    8. Launch, monitor, and maintain your system.
 
 ## Application url
-[My web App](https://ml-regression-tool2.herokuapp.com/) 
+[My_web_App -> HousingPreditor](https://ml-regression-tool2.herokuapp.com/) 
 
 ## Start Machine Learning project.
 
